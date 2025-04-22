@@ -1,2 +1,2 @@
 # WALLPAPER-SITE
-A Prototype Using HTML, And Tailwind Css Only
+A Prototype Using HTML, And Tailwind CSS Only
